@@ -1,4 +1,4 @@
-# **Blurr - WhatsApp Chat Gallery Privacy Extension**
+# **Blurr. - WhatsApp Chat Gallery Privacy Extension**
 
 ## Description
 
